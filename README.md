@@ -1,0 +1,1 @@
+ Estimate the temperature of the blackbody and the uncertainty of the temperature given the average spectrum of the sky as measured by the FIRAS experiment, which is considered to be a near-perfect blackbody, given by the Planck blackbody law.
